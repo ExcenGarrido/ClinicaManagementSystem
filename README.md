@@ -1,5 +1,7 @@
 # Gestor Para Clínica
 
+![Logo del sistema de gestión](https://github.com/user-attachments/assets/fb658b57-615a-42c1-b33c-a90703c8e571)
+
 Este proyecto es una aplicación de consola en C# diseñada para la gestión administrativa de una clínica. El sistema permite administrar de manera eficiente empleados, servicios y sus relaciones, ofreciendo una solución completa para el control del personal de sanidad y apoyo.
 
 ## Características
